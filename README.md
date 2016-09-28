@@ -1,6 +1,6 @@
 # test
 
-## Section 1
+## Section With more strings 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius
 rutrum erat sit amet congue. Nullam at luctus augue, et convallis
@@ -71,4 +71,4 @@ libero. Quisque dapibus cursus mauris, eget sollicitudin turpis
 molestie vitae. Interdum et malesuada fames ac ante ipsum primis in
 faucibus.
 
-[link to section 1](#section-1)
+[link to section 1](#section-with-more-strings-1)
